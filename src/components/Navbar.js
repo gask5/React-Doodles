@@ -28,7 +28,7 @@ function Navbar() {
         <div style={navContainer}>
             <div style={topBar}>
                 <div alt="Left">
-                    <Link className="link" to="/">
+                    <Link className="link" to="React-Doodles">
                         <NavButton name={<div><strong style={{fontSize : '1.2rem', color:'rgb(255,86,120)'}}>Lorem</strong><strong>Ipsum</strong></div>} />
                     </Link>
                 </div>
