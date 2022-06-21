@@ -34,7 +34,7 @@ function App() {
                     }}
                 >
                     <Routes key={location.pathname} location={location}>
-                        <Route path="/" element={<Home />} />
+                        <Route path="React-Doodles" element={<Home />} />
                         <Route path="works" element={<Works />} />
                         <Route path="about" element={<About />} />
                         <Route path="contacts" element={<Contacts />} />
