@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Doodles/static/css/main.c75afdcd.css",
+    "main.js": "/React-Doodles/static/js/main.284addaf.js",
+    "static/js/787.837a6d53.chunk.js": "/React-Doodles/static/js/787.837a6d53.chunk.js",
+    "static/media/doodle1.png": "/React-Doodles/static/media/doodle1.963320559c8a6f6cb598.png",
+    "static/media/doodle2.png": "/React-Doodles/static/media/doodle2.2c6f90757219de87e7d9.png",
+    "static/media/doodle4.png": "/React-Doodles/static/media/doodle4.19a325bd12701c93ea0c.png",
+    "static/media/doodle3.png": "/React-Doodles/static/media/doodle3.b84f0e9204eefbe8032f.png",
+    "index.html": "/React-Doodles/index.html",
+    "main.c75afdcd.css.map": "/React-Doodles/static/css/main.c75afdcd.css.map",
+    "main.284addaf.js.map": "/React-Doodles/static/js/main.284addaf.js.map",
+    "787.837a6d53.chunk.js.map": "/React-Doodles/static/js/787.837a6d53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75afdcd.css",
+    "static/js/main.284addaf.js"
+  ]
+}
