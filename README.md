@@ -4,7 +4,7 @@
 # Take a look!
 [Demo](https://gask5.github.io/React-Doodles).
 
-#External Libraries
+# External Libraries
 - [React Router](https://v5.reactrouter.com/) for multipaging.
 - [Framer Motion](https://www.framer.com/motion/) for animations.
 
