@@ -4,6 +4,10 @@
 # Take a look!
 [Demo](https://gask5.github.io/React-Doodles).
 
+#External Libraries
+- [React Router](https://v5.reactrouter.com/) for multipaging.
+- [Framer Motion](https://www.framer.com/motion/) for animations.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
