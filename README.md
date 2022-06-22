@@ -1,5 +1,5 @@
 # Web Page sample made in React and using Open Doodles
-gask5.github.io/React-Doodles
+[Demo](https://gask5.github.io/React-Doodles).
 
 # Getting Started with Create React App
 
