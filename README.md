@@ -1,5 +1,7 @@
 # Web Page sample made in React and using Open Doodles
 ![SampleImage](https://i.postimg.cc/m2R7rgR7/gig4.png)
+
+# Take a look!
 [Demo](https://gask5.github.io/React-Doodles).
 
 # Getting Started with Create React App
